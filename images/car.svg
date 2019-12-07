@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="102.78165mm"
+   height="84.722404mm"
+   viewBox="0 0 102.78165 84.722404"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="car.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1867187"
+     inkscape:cx="90.322591"
+     inkscape:cy="227.14941"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.705505,-124.21088)">
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.26458332"
+       id="rect815"
+       width="102.78165"
+       height="84.722404"
+       x="45.705505"
+       y="124.21088" />
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.35622847"
+       id="rect833"
+       width="102.1128"
+       height="34.557823"
+       x="45.928459"
+       y="157.43098" />
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.31831127"
+       id="rect835"
+       width="47.043228"
+       height="36.787361"
+       x="73.128815"
+       y="128.89291" />
+    <ellipse
+       style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke-width:593.32098389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path837"
+       cx="74.800964"
+       cy="197.45117"
+       rx="10.144393"
+       ry="10.813254" />
+    <ellipse
+       ry="10.813254"
+       rx="10.144393"
+       cy="197.67412"
+       cx="116.49331"
+       id="ellipse839"
+       style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke-width:593.32098389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:#808080;fill-rule:evenodd;stroke-width:0.26458332"
+       id="rect841"
+       width="22.741278"
+       height="22.964231"
+       x="84.945358"
+       y="133.35199" />
+  </g>
+</svg>
